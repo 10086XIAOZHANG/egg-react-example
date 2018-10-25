@@ -9,7 +9,7 @@ react+eggExample
 
 
 ### # 多页面前端页面实现
-在app/web/page 目录下面创建home目录, home.jsx 文件, Webpack自动根据.jsx 文件创建entry入口
+在app/web/page 目录下面创建ss目录, ss.jsx 文件, Webpack自动根据.jsx 文件创建entry入口
 #### ss.jsx 以组件的方式实现页面逻辑
 
 ```
