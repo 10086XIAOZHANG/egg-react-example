@@ -25,7 +25,7 @@ export default class List extends Component {
                         <time className="timeago">{item.moduleName}</time>
                       </li>
                       <li className="tauthor">
-                        <a href="#" target="_blank" className="get">Sky</a>
+                        <a href="#" target="_blank" className="get">cc</a>
                       </li>
                       <li><a>+收藏</a></li>
                       <li>
