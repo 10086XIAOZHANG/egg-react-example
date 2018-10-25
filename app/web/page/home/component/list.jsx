@@ -27,7 +27,7 @@ export default class List extends Component {
                       <li className="tauthor">
                         <a href="#" target="_blank" className="get">cc</a>
                       </li>
-                      <li><a>+收藏</a></li>
+                      <li><a>+collection</a></li>
                       <li>
                         <span className="timeago">{item.summary}</span>
                       </li>
