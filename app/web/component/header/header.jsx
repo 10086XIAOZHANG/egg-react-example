@@ -10,8 +10,8 @@ export default class Header extends Component {
       <div className="container"><h1>
         <a href="/" className="router-link-active">案例</a></h1>
       <ul className="nav">
-        <li className="nav-item"><a href="/">Server-Render</a></li>
-        <li className="nav-item"><a href="/ss">test-Design</a></li>
+        <li className="nav-item"><a href="/">home</a></li>
+        <li className="nav-item"><a href="/ss">test</a></li>
       </ul>
       </div>
     </header>;
