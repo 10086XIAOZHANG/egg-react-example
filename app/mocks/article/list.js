@@ -2,7 +2,7 @@
 const data = {
   list: [{
     title: `egg+react+服务器端渲染Example`,
-    summary: '基于Egg + React + Webpack3/Webpack2 多页面和单页面服务器渲染同构工程骨架项目',
+    summary: 'egg+react+服务器端渲染Example',
     hits: 550,
     url: 'ff'
   }]
