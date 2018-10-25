@@ -15,8 +15,7 @@ module.exports = {
   alias: {
     asset: 'app/web/asset',
     component: 'app/web/component',
-    framework: 'app/web/framework',
-    store: 'app/web/store'
+    framework: 'app/web/framework'
   },
   dll: ['react', 'react-dom'],
   loaders: {
