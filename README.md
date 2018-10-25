@@ -1,6 +1,6 @@
 # example
 
-Egg + React + Webpack3 多页面服务端渲染同构工程骨架项目
+react+eggExample
 
 - Egg 版本： ^2.x.x
 - Node 版本: Node ^8.x.x+
