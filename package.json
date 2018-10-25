@@ -1,7 +1,7 @@
 {
   "name": "egg-react-webpack-mpa-boilerplate",
   "version": "1.0.0",
-  "description": "基于 easywebpack-react 和 egg-view-react-ssr 插件服务端渲染工程骨架项目",
+  "description": "react-egg-example",
   "scripts": {
     "build": "cross-env easy build prod",
     "build:test": "cross-env easy build test",
